@@ -469,5 +469,4 @@ If you’re interested, shoot me a message and I’ll help you out.
 
 ***Thank you for reading!*** *Let me know what you thought about this project.*
 
-# Author 
-- [Tushar Nankani](https://www.linkedin.com/in/tusharnankani/)
+
